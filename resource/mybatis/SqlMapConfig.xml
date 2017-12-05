@@ -9,4 +9,9 @@
         <package name="com.jajahome.po"/>
     </typeAliases>
 
+    <mappers>
+        <mapper resource="UserMapper.xml"/>
+    </mappers>
+
+
 </configuration>

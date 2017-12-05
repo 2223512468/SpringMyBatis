@@ -11,7 +11,7 @@ public class ItemsMapperTest {
 
     @Before
     public void setUp() {
-        applicationContext = new ClassPathXmlApplicationContext("spring/applicationContext.xml");
+        applicationContext = new ClassPathXmlApplicationContext("applicationContext.xml");
     }
 
 
